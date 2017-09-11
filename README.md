@@ -8,6 +8,7 @@ As an example of these similarities, we can take first(), firstOrDefault() and t
 Here is a list of all operators available in this project:
 
   - first()
+  - first() with predicate
   - firstOrDefault()
   - takeFirst()
   - single()
